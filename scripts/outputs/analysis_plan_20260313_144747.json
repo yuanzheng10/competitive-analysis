@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "created_at": "2026-03-13 14:47:47",
+        "brand_name": "千问app",
+        "industry": "工具"
+    },
+    "analysis_goal": "运营策略优化 (重点关注获客渠道和转化)",
+    "competitors": [
+        "豆包",
+        "元宝"
+    ],
+    "selected_dimensions": [
+        "市场现状与行业分析",
+        "竞品背景分析",
+        "产品定位与企业愿景",
+        "目标用户分析",
+        "竞品数据分析",
+        "产品与功能分析",
+        "运营推广策略分析",
+        "盈利模式分析",
+        "SWOT分析",
+        "结论与建议"
+    ],
+    "status": "initialized"
+}
